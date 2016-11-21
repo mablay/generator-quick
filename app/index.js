@@ -29,8 +29,8 @@ module.exports = generators.Base.extend({
 			);
 		});
 	},
-	method2: function () {
-		var dstPath = this.destinationPath('index.js');
-		console.log('destinationPath %s', dstPath);
+	installDependencies: function () {
+		console.log('installDependencies');
+		this.npmInstall(['live-server'], { 'save-dev': true });
 	}
 });
