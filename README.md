@@ -4,11 +4,11 @@ Want to experiment with some fancy web technology you just found, but setting up
 
 ### Install
 
-    npm install -g generator-playground-minimal
+    npm install -g generator-quick
 
 ### Execute
 
-    yo playground-minimal
+    yo quick
 
 This will create the playground project in your current working directory.
 
