@@ -1,17 +1,19 @@
 {
-  "name": "generator-playground-minimal",
+  "name": "generator-quick",
   "version": "0.1.0",
-  "description": "Trivial yeoman generator. Creating folder structure and files",
+  "description": "Trivial yeoman generator. Creating a minimal HTML5 playground that can be used for testing and experimenting purposes.",
   "main": "index.js",
   "files": [
     "app"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/pisquared/generator-playground-minimal.git"
+    "url": "git://github.com/pisquared/generator-quick.git"
   },
   "keywords": [
     "yeoman-generator",
+    "experiment",
+    "playground",
     "template",
     "html5"
   ],
@@ -21,7 +23,7 @@
   "author": "pisquared",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pisquared/generator-playground-minimal/issues"
+    "url": "https://github.com/pisquared/generator-quick/issues"
   },
-  "homepage": "https://github.com/pisquared/generator-playground-minimal#readme"
+  "homepage": "https://github.com/pisquared/generator-quick#readme"
 }
