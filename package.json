@@ -1,0 +1,23 @@
+{
+  "name": "generator-playground-minimal",
+  "version": "0.1.0",
+  "description": "Trivial yeoman generator. Creating folder structure and files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/%3Apisquared/generator-playground-minimal.git"
+  },
+  "keywords": [
+    "template",
+    "html5"
+  ],
+  "author": "pisquared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/%3Apisquared/generator-playground-minimal/issues"
+  },
+  "homepage": "https://github.com/%3Apisquared/generator-playground-minimal#readme"
+}
