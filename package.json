@@ -1,6 +1,6 @@
 {
   "name": "generator-quick",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Trivial yeoman generator. Creating a minimal HTML5 playground that can be used for testing and experimenting purposes.",
   "main": "index.js",
   "files": [
